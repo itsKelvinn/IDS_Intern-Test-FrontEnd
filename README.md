@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Internship Test PT Inovasi Daya Solusi
 
-## Getting Started
+## Description
 
-First, run the development server:
+This repository contains the internship test for PT Inovasi Daya Solusi. The project primarily focuses on front-end development using Next.js to create an intuitive and seamless user interface, enhanced by the utility-first approach of Tailwind CSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Clone the Repository :** Clone the repository to your local machine using the following command:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    ```bash
+    git clone <repository_url>
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Navigate to the Project Directory :** Move to the project directory using the following command:
 
-## Learn More
+    ```bash
+    cd <project_directory>
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+3. **Install Dependencies :** Run the following command to install the project dependencies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ``` bash
+    npm install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+4. **Start the Development Server :** Use the following command to start the development server:
 
-## Deploy on Vercel
+    ```bash
+    npm run dev
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+5. **Access the Application :** Open http://localhost:3000 in your preferred web browser to access the Next.js application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Usage
+
+- **View Data Grouped by Year and Month**
+![Alt text](/images/image.png)
+
+- **Edit Data**
+![Alt text](/images/image-2.png)
+
+- **Create Data**
+![Alt text](/images/image-1.png)
+
+
+
+**Note :**
+If you encounter issues or errors, be sure to check the console for any API response messages that might provide helpful information for debugging.
+
+## Contact
+For any inquiries or further information, please reach out to my email kelvin.giovanno@binus.ac.id
+
